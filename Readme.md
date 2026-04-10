@@ -107,12 +107,12 @@ This separation improves scalability, readability, and maintainability.
 
 ## 🌐 GitHub Repository
 
-👉 https://github.com/deepthip711/mvc-task-api
+👉 https://github.com/Varshithkumars03/mvc-task-api
 
 
 
 ## 👩‍💻 Author
 
-**Deepthi Pradeep**
+**Varshith Kumar S**
 
 ---
